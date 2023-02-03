@@ -1,4 +1,4 @@
-# Web Browser Project
+# Pink Web Browser
 custom web browser application developed in Visual Studio
 
 ## web browser design
